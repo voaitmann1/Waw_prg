@@ -1,0 +1,192 @@
+
+
+for chN in range(n_channels):
+                        #signal_chn=signal_chn=signal[:,chN]
+                        if(chN==1):
+                            signal_chn=copy.deepcopy(signal_sensor1)
+                        elif (chN==2):
+                            #signal_chn=copy.deepcopy(signal_sensor2)
+                            signal_chn=signal_chn=signal[:,chN]
+
+
+
+
+Answer
+[0.0011291848495602608, 0.001434369944036007, 0.0012817773967981339, 0.0018616290763020515, 0.0016479995101690292, 0.0011291848495602608, 0.0017700735479593277, 0.001434369944036007]
+[32079, 113819, 179447, 253824, 323450, 396612, 541031, 614922]
+[4.455416666666666, 15.808194444444444, 24.923194444444444, 35.25333333333333, 44.923611111111114, 55.085, 75.14319444444445, 85.40583333333333]
+FindTImpactStart finishes working
+peaks: channel 1 peaks bounds detected: 7
+chN=1 len(segments)=7 len(signal_chn)=667440 (mode 2)
+peaks_time [4.455416666666666, 15.808194444444444, 24.923194444444444, 35.25333333333333, 44.923611111111114, 55.085, 75.14319444444445, 85.40583333333333]
+Bounds
+4.455416666666666...15.808194444444444
+15.808194444444444...24.923194444444444
+24.923194444444444...35.25333333333333
+35.25333333333333...44.923611111111114
+44.923611111111114...55.085
+55.085...75.14319444444445
+75.14319444444445...85.40583333333333
+len(allSegments)=2
+len(aSeg)[1]=8
+len(aSeg)[2]=7
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+
+
+Bounds
+4.455416666666666...15.808194444444444
+15.808194444444444...24.923194444444444
+24.923194444444444...35.25333333333333
+35.25333333333333...44.923611111111114
+44.923611111111114...55.085
+55.085...75.14319444444445
+75.14319444444445...85.40583333333333
+len(allSegments)=2
+len(aSeg)[1]=8
+len(aSeg)[2]=7
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+fileOwnNames:  ['0038-03.12.25-МС0042511-1']
+energySum:  [0.008444586209085836, 0.5713542300925841]
+files and data rows: 2
+cond to elaborate segms
+len(allSegments)=2 len(segs1)=8 len(segs2)=7
+FindCommonSegnments starts working. Elements: 8=7
+Comparing: [4.464305555555556,15.821944444444444] with [4.455416666666666,15.808194444444444]
+
+
+
+FindCommonSegnments finishes working
+Рекомендуемые диапазоны:
+4.464305555555556 ... 15.808194444444444
+15.821944444444444 ... 24.923194444444444
+25.02638888888889 ... 35.25333333333333
+35.255 ... 44.923611111111114
+44.939305555555556 ... 55.07486111111111
+75.14861111111111 ... 85.3951388888889
+len(segsNew)=6
+writing file of impacts bounds data\0038-03.12.25-МС0042511-1_ImpactsRanges.csv
+impactsQ=6
+do_WriteAllImpactsNotSingle=True
+__impactsQ=6
+impact:  [0, [4.464305555555556, [15.808194444444444, 15.808194444444444], [4.464305555555556, 15.808194444444444]]]
+Traceback (most recent call last):
+  File "C:\Users\user\Documents\MyPrgs\Python\Wav\TestVibro_Step1_MulCha_ReadSignal_ReadFileNamesFromCsv2_3.py", line 537, in <module>
+    tStart, tsFin= tsOfImpact # mut r'ef v
+ValueError: too many values to unpack (expected 2) 
+
+
+
+
+
+
+
+
+
+Answer
+[0.0073854793, 0.010162664, 0.007080294, 0.0049439985, 0.010406812, 0.014374218, 0.015869625, 0.028687399, 0.008239998]
+[32143, 113918, 180190, 253836, 323563, 396539, 469022, 541070, 614845]
+[4.464305555555556, 15.821944444444444, 25.02638888888889, 35.255, 44.939305555555556, 55.07486111111111, 65.14194444444445, 75.14861111111111, 85.3951388888889]
+FindTImpactStart finishes working
+peaks: channel 0 peaks bounds detected: 8
+chN=0 len(segments)=8 len(signal_chn)=667440 (mode 2)
+peaks_time [4.464305555555556, 15.821944444444444, 25.02638888888889, 35.255, 44.939305555555556, 55.07486111111111, 65.14194444444445, 75.14861111111111, 85.3951388888889]
+
+
+FindTImpactStart finishes working
+peaks: channel 1 peaks bounds detected: 7
+chN=1 len(segments)=7 len(signal_chn)=667440 (mode 2)
+peaks_time [4.455416666666666, 15.808194444444444, 24.923194444444444, 35.25333333333333, 44.923611111111114, 55.085, 75.14319444444445, 85.40583333333333]
+Bounds
+4.455416666666666...15.808194444444444
+15.808194444444444...24.923194444444444
+24.923194444444444...35.25333333333333
+35.25333333333333...44.923611111111114
+44.923611111111114...55.085
+55.085...75.14319444444445
+75.14319444444445...85.40583333333333
+len(allSegments)=2
+len(aSeg)[1]=8
+len(aSeg)[2]=7
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+fileOwnNames:  ['0038-03.12.25-МС0042511-1']
+energySum:  [0.008444586209085836, 0.5713542300925841]
+files and data rows: 2
+cond to elaborate segms
+len(allSegments)=2 len(segs1)=8 len(segs2)=7
+FindCommonSegnments starts working. Elements: 8=7
+Comparing: [4.464305555555556,15.821944444444444] with [4.455416666666666,15.808194444444444]
+
+
+
+FindCommonSegnments finishes working
+Рекомендуемые диапазоны:
+4.464305555555556 ... 15.808194444444444
+15.821944444444444 ... 24.923194444444444
+25.02638888888889 ... 35.25333333333333
+35.255 ... 44.923611111111114
+44.939305555555556 ... 55.07486111111111
+75.14861111111111 ... 85.3951388888889
+len(segsNew)=6
+writing file of impacts bounds data\0038-03.12.25-МС0042511-1_ImpactsRanges.csv
+impactsQ=6
+do_WriteAllImpactsNotSingle=True
+__impactsQ=6
+impact:  [0, [4.464305555555556, [15.808194444444444, 15.808194444444444], [4.464305555555556, 15.808194444444444]]]
+Traceback (most recent call last):
+  File "C:\Users\user\Documents\MyPrgs\Python\Wav\TestVibro_Step1_MulCha_ReadSignal_ReadFileNamesFromCsv2_3.py", line 536, in <module>
+    tStart, tsFin= tsOfImpact # mut r'ef v
+ValueError: too many values to unpack (expected 2)
+
+==========================================================
+
+
+for chN in range(n_channels):
+    signal_chn=signal_chn=signal[:,chN]
+    #if(chN==1):
+    #    signal_chn=copy.deepcopy(signal_sensor1)
+    #elif (chN==2):
+    #    signal_chn=copy.deepcopy(signal_sensor2)
+    ## 
+    peaks_time, segments = FindTImpactStart(signal_chn, fs=fs, SectT=6, TrashBeforeT=1, TrashAfterT=1, MoreThanTrashCoef=3, vsh=1)
+    #
+    print("peaks: channel "+str(chN)+" peaks bounds detected: "+str(len(segments))) 
+
+FindTImpactStart finishes working
+peaks: channel 0 peaks bounds detected: 0
+chN=0 len(segments)=0 len(signal_chn)=667440 (mode 2)
+
+FindTImpactStart finishes working
+peaks: channel 1 peaks bounds detected: 8
+
+Bounds
+4.464305555555556...15.821944444444444
+15.821944444444444...25.02638888888889
+25.02638888888889...35.255
+35.255...44.939305555555556
+44.939305555555556...55.07486111111111
+55.07486111111111...65.14194444444445
+65.14194444444445...75.14861111111111
+75.14861111111111...85.3951388888889
+len(allSegments)=2
+len(aSeg)[1]=0
+len(aSeg)[2]=8
+
+
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+segsNew: не найдены
+len(segsNew)=0
+writing file of impacts bounds data\0038-03.12.25-МС0042511-1_ImpactsRanges.csv
+impactsQ=0
+do_WriteAllImpactsNotSingle=True
+__impactsQ=0
+Step1 finishes working

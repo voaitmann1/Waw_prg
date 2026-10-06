@@ -1,0 +1,2808 @@
+= RESTART: C:/Users/user/Documents/MyPrgs/Python/Wav/TestVibro_Step3_MulCha_MulImp_ElaborateSingleImpact_v3_1__farr_for_spectrum_and_harms.py
+Step3 starts working
+N 1 20251218Сер2__01_ДВ_1_1канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.3249709
+N 2 20251218Сер2__02_ДВ_2_2 канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.003014617
+filePath2=C:\Users\user\Documents\MyPrgs\Python\Wav\results
+reading: 20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv : C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+In all 8 impacts
+Impact N 0: Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 1: Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 2: Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 3: Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 4: Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 5: Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 6: Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 7: Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv done, 1034640 vals read
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv done, 1034640 vals read
+reading saved impact ranges
+impact 1=1 :  [9.5, [12.9, 24.4]]
+Анализ затухания без модального анализа
+Impact N 0  tStart=9.5 tFin1=12.9 tFin2=24.4 ImpHB=12.9
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+PySide2/__init__.py: Unable to import shiboken2 from C:/Users/user/Documents/MyPrgs/Python/Wav, C:\Users\user\AppData\Local\Programs\Python\Python38\Lib\idlelib, C:\Users\user\AppData\Local\Programs\Python\Python38\python38.zip, C:\Users\user\AppData\Local\Programs\Python\Python38\DLLs, C:\Users\user\AppData\Local\Programs\Python\Python38\lib, C:\Users\user\AppData\Local\Programs\Python\Python38, C:\Users\user\AppData\Local\Programs\Python\Python38\lib\site-packages
+len(enS)=24481
+len(en1=24481 len(en2=24481 len(enS=24481
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+Signal Energy - Sensor 2
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+Signal Energy - Sum
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+results of impact0(1): decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555. Medium vals: decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555 decrSs=0.43043363901616555
+Дописали строку текущих значений в .csv-файл
+impact 2=2 :  [17.6, [23.6, 36.9]]
+Анализ затухания без модального анализа
+Impact N 1  tStart=17.6 tFin1=23.6 tFin2=36.9 ImpHB=23.6
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+len(enS)=43201
+len(en1=43201 len(en2=43201 len(enS=43201
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+Signal Energy - Sensor 2
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+Signal Energy - Sum
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+results of impact1(2): decr1=0.3164376889104704 decr2=0.40756155274864225 decrS=0.31817371420722057. Medium vals: decr1=0.1582188444552352 decr2=0.20378077637432113 decrS=0.15908685710361029 decrSs=0.31817371420722057
+Дописали строку текущих значений в .csv-файл
+impact 3=3 :  [27.7, [31.6, 47.3]]
+Анализ затухания без модального анализа
+Impact N 2  tStart=27.7 tFin1=31.6 tFin2=47.3 ImpHB=31.6
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+len(enS)=28081
+len(en1=28081 len(en2=28081 len(enS=28081
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+Signal Energy - Sensor 2
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+Signal Energy - Sum
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+results of impact2(3): decr1=0.3710573518795428 decr2=0.2634476420959584 decrS=0.3713135499245668. Medium vals: decr1=0.1236857839598476 decr2=0.0878158806986528 decrS=0.12377118330818893 decrSs=0.3713135499245668
+Дописали строку текущих значений в .csv-файл
+spectrum fun #2
+spectrum fun #2
+now len(f1)=14040  len(f2)=14040
+Корррекция _1_ спектр - добавляем mean, detrend, zero_padding_factor
+ use_window=True use_detrend=True use_mean=Falsezero_padding_factor=1
+spectrum fun #2
+spectrum fun #2
+Урезаем спектр до разумного набора.
+sensor 1: lim f[258]=65.89508920622485<=66, in all 258 vals
+sensor 2: lim f[258]=65.89508920622485<=66, in all 258 vals
+Nu len(f1)=14040  len(f2)=14040
+data 1
+Peaks of freqs: 20
+peakN 1 freq = 1.5384067518963 freqN= 7 ampl= 6.537701274465192e-06
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 3.2844612632289092e-06
+peakN 3 freq = 10.7688472632741 freqN= 43 ampl= 0.00012699724369769666
+peakN 4 freq = 15.640468644279052 freqN= 62 ampl= 2.6895964505664487e-06
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 3.528384955076911e-06
+peakN 6 freq = 22.81970015312845 freqN= 90 ampl= 2.2276519510481265e-06
+peakN 7 freq = 24.35810690502475 freqN= 96 ampl= 2.2357666226336036e-06
+peakN 8 freq = 28.204123784765503 freqN= 111 ampl= 2.6031069165076897e-06
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 2.4011562581041185e-05
+peakN 10 freq = 34.870553042982806 freqN= 137 ampl= 1.232627337006991e-06
+peakN 11 freq = 36.4089597948791 freqN= 143 ampl= 1.56612940703549e-06
+peakN 12 freq = 38.460168797407505 freqN= 151 ampl= 1.6073878308262512e-06
+peakN 13 freq = 42.30618567714826 freqN= 166 ampl= 1.5557708728177284e-06
+peakN 14 freq = 44.35739467967665 freqN= 174 ampl= 2.2496149564699195e-06
+peakN 15 freq = 46.152202556889 freqN= 181 ampl= 6.145615378654239e-06
+peakN 16 freq = 51.53662618852606 freqN= 202 ampl= 1.4250407741721148e-06
+peakN 17 freq = 54.61343969231866 freqN= 214 ampl= 1.0539487563155162e-06
+peakN 18 freq = 56.921049820163105 freqN= 223 ampl= 1.0910817646323827e-06
+peakN 19 freq = 61.792671201168055 freqN= 242 ampl= 3.675038905674375e-06
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 4.622292264103012e-06
+data 2
+Peaks of freqs: 20
+peakN 1 freq = 1.0256045012642 freqN= 5 ampl= 1.9508393687789745e-05
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 8.174706459816885e-07
+peakN 3 freq = 9.743242762009901 freqN= 39 ampl= 5.458350451625018e-06
+peakN 4 freq = 14.358463017698801 freqN= 57 ampl= 5.665807400453457e-07
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 1.4699430340867882e-06
+peakN 6 freq = 23.0761012784445 freqN= 91 ampl= 3.735807911737122e-07
+peakN 7 freq = 24.870909155656854 freqN= 98 ampl= 3.539742807456651e-07
+peakN 8 freq = 27.691321534133404 freqN= 109 ampl= 2.8233557984135923e-07
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 1.2135150705085983e-06
+peakN 10 freq = 33.8449485417186 freqN= 133 ampl= 4.350984542701046e-07
+peakN 11 freq = 35.63975641893095 freqN= 140 ampl= 3.574416334397967e-07
+peakN 12 freq = 39.22937217335566 freqN= 154 ampl= 4.529026897081539e-07
+peakN 13 freq = 44.100993554360606 freqN= 173 ampl= 1.7280035931243993e-05
+peakN 14 freq = 46.408603682205054 freqN= 182 ampl= 1.0188630259461086e-06
+peakN 15 freq = 49.99821943662975 freqN= 196 ampl= 3.387778740834527e-07
+peakN 16 freq = 53.07503294042235 freqN= 208 ampl= 3.338634445295879e-07
+peakN 17 freq = 55.126241942950756 freqN= 216 ampl= 4.5162414850232387e-07
+peakN 18 freq = 59.997863323955706 freqN= 235 ampl= 2.9508276532223906e-07
+peakN 19 freq = 62.305473451800154 freqN= 244 ampl= 3.9841824510456625e-07
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 8.536487601834674e-06
+
+Above peaks are chosen. Below choosing ones with amplitude big enough
+
+1 cur_peak=6.537701274465192e-06 max_peak1=6.537701274465192e-06 - this is cur max
+2 cur_peak=3.2844612632289092e-06 max_peak1=6.537701274465192e-06 - tis is NOT curmax
+3 cur_peak=0.00012699724369769666 max_peak1=0.00012699724369769666 - this is cur max
+4 cur_peak=2.6895964505664487e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+5 cur_peak=3.528384955076911e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+6 cur_peak=2.2276519510481265e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+7 cur_peak=2.2357666226336036e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+8 cur_peak=2.6031069165076897e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+9 cur_peak=2.4011562581041185e-05 max_peak1=0.00012699724369769666 - tis is NOT curmax
+10 cur_peak=1.232627337006991e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+11 cur_peak=1.56612940703549e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+12 cur_peak=1.6073878308262512e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+13 cur_peak=1.5557708728177284e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+14 cur_peak=2.2496149564699195e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+15 cur_peak=6.145615378654239e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+16 cur_peak=1.4250407741721148e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+17 cur_peak=1.0539487563155162e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+18 cur_peak=1.0910817646323827e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+19 cur_peak=3.675038905674375e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+20 cur_peak=4.622292264103012e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+max_peak1=0.00012699724369769666
+choosing
+1) cur_peak=6.537701274465192e-06 max peak=0.00012699724369769666 %diff=94.85209199498259 > 10 - NOT chosen
+2) cur_peak=3.2844612632289092e-06 max peak=0.00012699724369769666 %diff=97.41375389922067 > 10 - NOT chosen
+3) cur_peak=0.00012699724369769666 max peak=0.00012699724369769666 %diff=0.0 < 10 - chosen!
+4) cur_peak=2.6895964505664487e-06 max peak=0.00012699724369769666 %diff=97.882161555436 > 10 - NOT chosen
+5) cur_peak=3.528384955076911e-06 max peak=0.00012699724369769666 %diff=97.22168383159885 > 10 - NOT chosen
+6) cur_peak=2.2276519510481265e-06 max peak=0.00012699724369769666 %diff=98.24590527621937 > 10 - NOT chosen
+7) cur_peak=2.2357666226336036e-06 max peak=0.00012699724369769666 %diff=98.23951563235845 > 10 - NOT chosen
+8) cur_peak=2.6031069165076897e-06 max peak=0.00012699724369769666 %diff=97.95026502881898 > 10 - NOT chosen
+9) cur_peak=2.4011562581041185e-05 max peak=0.00012699724369769666 %diff=81.09284746510077 > 10 - NOT chosen
+10) cur_peak=1.232627337006991e-06 max peak=0.00012699724369769666 %diff=99.02940622873587 > 10 - NOT chosen
+11) cur_peak=1.56612940703549e-06 max peak=0.00012699724369769666 %diff=98.76680047421857 > 10 - NOT chosen
+12) cur_peak=1.6073878308262512e-06 max peak=0.00012699724369769666 %diff=98.73431282126684 > 10 - NOT chosen
+13) cur_peak=1.5557708728177284e-06 max peak=0.00012699724369769666 %diff=98.77495697739623 > 10 - NOT chosen
+14) cur_peak=2.2496149564699195e-06 max peak=0.00012699724369769666 %diff=98.22861119582652 > 10 - NOT chosen
+15) cur_peak=6.145615378654239e-06 max peak=0.00012699724369769666 %diff=95.16082774734606 > 10 - NOT chosen
+16) cur_peak=1.4250407741721148e-06 max peak=0.00012699724369769666 %diff=98.87789629705328 > 10 - NOT chosen
+17) cur_peak=1.0539487563155162e-06 max peak=0.00012699724369769666 %diff=99.17010107807982 > 10 - NOT chosen
+18) cur_peak=1.0910817646323827e-06 max peak=0.00012699724369769666 %diff=99.14086185427017 > 10 - NOT chosen
+19) cur_peak=3.675038905674375e-06 max peak=0.00012699724369769666 %diff=97.10620577370764 > 10 - NOT chosen
+20) cur_peak=4.622292264103012e-06 max peak=0.00012699724369769666 %diff=96.36032079947667 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 1st sensor:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+1 cur_peak=1.9508393687789745e-05 max_peak1=1.9508393687789745e-05 - this is cur max
+2 cur_peak=8.174706459816885e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+3 cur_peak=5.458350451625018e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+4 cur_peak=5.665807400453457e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+5 cur_peak=1.4699430340867882e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+6 cur_peak=3.735807911737122e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+7 cur_peak=3.539742807456651e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+8 cur_peak=2.8233557984135923e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+9 cur_peak=1.2135150705085983e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+10 cur_peak=4.350984542701046e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+11 cur_peak=3.574416334397967e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+12 cur_peak=4.529026897081539e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+13 cur_peak=1.7280035931243993e-05 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+14 cur_peak=1.0188630259461086e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+15 cur_peak=3.387778740834527e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+16 cur_peak=3.338634445295879e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+17 cur_peak=4.5162414850232387e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+18 cur_peak=2.9508276532223906e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+19 cur_peak=3.9841824510456625e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+20 cur_peak=8.536487601834674e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+max_peak2=1.9508393687789745e-05
+1) cur_peak=1.9508393687789745e-05 max peak2=1.9508393687789745e-05 %diff=0.0 < 10 - chosen!
+2) cur_peak=8.174706459816885e-07 max peak2=1.9508393687789745e-05 %diff=95.80964656001719 > 10 - NOT chosen
+3) cur_peak=5.458350451625018e-06 max peak2=1.9508393687789745e-05 %diff=72.02050287184134 > 10 - NOT chosen
+4) cur_peak=5.665807400453457e-07 max peak2=1.9508393687789745e-05 %diff=97.09570788291008 > 10 - NOT chosen
+5) cur_peak=1.4699430340867882e-06 max peak2=1.9508393687789745e-05 %diff=92.46507396963788 > 10 - NOT chosen
+6) cur_peak=3.735807911737122e-07 max peak2=1.9508393687789745e-05 %diff=98.08502536317208 > 10 - NOT chosen
+7) cur_peak=3.539742807456651e-07 max peak2=1.9508393687789745e-05 %diff=98.18552830945167 > 10 - NOT chosen
+8) cur_peak=2.8233557984135923e-07 max peak2=1.9508393687789745e-05 %diff=98.55274819464981 > 10 - NOT chosen
+9) cur_peak=1.2135150705085983e-06 max peak2=1.9508393687789745e-05 %diff=93.77952336860962 > 10 - NOT chosen
+10) cur_peak=4.350984542701046e-07 max peak2=1.9508393687789745e-05 %diff=97.76968590426574 > 10 - NOT chosen
+11) cur_peak=3.574416334397967e-07 max peak2=1.9508393687789745e-05 %diff=98.16775466417043 > 10 - NOT chosen
+12) cur_peak=4.529026897081539e-07 max peak2=1.9508393687789745e-05 %diff=97.67842141717888 > 10 - NOT chosen
+13) cur_peak=1.7280035931243993e-05 max peak2=1.9508393687789745e-05 %diff=11.42255888520681 > 10 - NOT chosen
+14) cur_peak=1.0188630259461086e-06 max peak2=1.9508393687789745e-05 %diff=94.7773094891774 > 10 - NOT chosen
+15) cur_peak=3.387778740834527e-07 max peak2=1.9508393687789745e-05 %diff=98.26342506971501 > 10 - NOT chosen
+16) cur_peak=3.338634445295879e-07 max peak2=1.9508393687789745e-05 %diff=98.2886164290474 > 10 - NOT chosen
+17) cur_peak=4.5162414850232387e-07 max peak2=1.9508393687789745e-05 %diff=97.68497521769312 > 10 - NOT chosen
+18) cur_peak=2.9508276532223906e-07 max peak2=1.9508393687789745e-05 %diff=98.48740613889227 > 10 - NOT chosen
+19) cur_peak=3.9841824510456625e-07 max peak2=1.9508393687789745e-05 %diff=97.9577086074804 > 10 - NOT chosen
+20) cur_peak=8.536487601834674e-06 max peak2=1.9508393687789745e-05 %diff=56.24197594916469 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 2nd sensor:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+Sorted data of sensor 1 by amp descendence
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Again:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Sorted data of sensor 1 by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Sorted data of sensor 2 by amp descendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Sorted data of sensor 2 by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+
+Above freqs with big ampls are chosen - below choosing vals close to standard vals
+Finding fitting frequences for frequency N1 = 3
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Top MAX amplitude frequencies:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Finally chosen:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (1st sensor) (max amplitude among nearest):
+7)  freq=1.5384067518963 ampl=6.537701274465192e-06
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Top MAX amplitude frequencies:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Finally chosen:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (2nd sensor) (max amplitude among nearest):
+5)  freq=1.0256045012642 ampl=1.9508393687789745e-05
+val 1.0256045012642 is suitable, but is already present in arr at  [1]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N2 = 9.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Chosen :nothing, no approximate frequences
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Top MAX amplitude frequencies:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Finally chosen:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N2 = 9.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+39)  freq=9.743242762009901 ampl=5.458350451625018e-06
+val 9.743242762009901 is suitable, but is already present in arr at  [3]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N3 = 10.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Top MAX amplitude frequencies:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Finally chosen:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N3 = 10.5 chosen frequency (1st sensor) (max amplitude among nearest):
+43)  freq=10.7688472632741 ampl=0.00012699724369769666
+val 10.7688472632741 is suitable, but is already present in arr at  [1]
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+no frequencies in this range found, making range wider, now it is: 10.0...14.75
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Top MAX amplitude frequencies:
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N4 = 19
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Finally chosen:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N4 = 19 chosen frequency (2nd sensor) (max amplitude among nearest):
+73)  freq=18.4608810227556 ampl=1.4699430340867882e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N5 = 29
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Top MAX amplitude frequencies:
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Top MAX amplitude frequencies:
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N6 = 31.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Finally chosen:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (1st sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=2.4011562581041185e-05
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Finally chosen:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=1.2135150705085983e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+Ns: [5, 24, 39, 57, 73, 122]
+amps: [5, 24, 39, 57, 73, 122]
+Finding fitting frequences for frequency N7 = 43.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Top MAX amplitude frequencies:
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Top MAX amplitude frequencies:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Finally chosen:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N7 = 43.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+173)  freq=44.100993554360606 ampl=1.7280035931243993e-05
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+Ns: [5, 24, 39, 57, 73, 122, 173]
+amps: [5, 24, 39, 57, 73, 122, 173]
+Finding fitting frequences for frequency N8 = 47
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+no frequencies in this range found, making range wider, now it is: 45.25...53.25
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Top MAX amplitude frequencies:
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Top MAX amplitude frequencies:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Finally chosen:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N8 = 47 chosen frequency (2nd sensor) (max amplitude among nearest):
+182)  freq=46.408603682205054 ampl=1.0188630259461086e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+Finding fitting frequences for frequency N9 = 59.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Top MAX amplitude frequencies:
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Top MAX amplitude frequencies:
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+
+Finaly - chosen frequences:
+For 1st sensor: 4
+Ns:  [43, 24, 7, 122]
+freqs:  [10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+ampls:  [0.00012699724369769666, 3.2844612632289092e-06, 6.537701274465192e-06, 2.4011562581041185e-05]
+Sorted data of 1st sensor renewed by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+For 2nd sensor: 8
+Ns:  [5, 24, 39, 57, 73, 122, 173, 182]
+freqs:  [1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+ampls:  [1.9508393687789745e-05, 8.174706459816885e-07, 5.458350451625018e-06, 5.665807400453457e-07, 1.4699430340867882e-06, 1.2135150705085983e-06, 1.7280035931243993e-05, 1.0188630259461086e-06]
+Sorted data of 2nd sensor renewed by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Traceback (most recent call last):
+  File "C:/Users/user/Documents/MyPrgs/Python/Wav/TestVibro_Step3_MulCha_MulImp_ElaborateSingleImpact_v3_1__farr_for_spectrum_and_harms.py", line 963, in <module>
+    writer_ff.writerow([str(i+1), str(peakFreqs1_chosen[i]), +str(peaks1_chosen[i]), "1", ])
+TypeError: bad operand type for unary +: 'str'
+>>> 
+= RESTART: C:/Users/user/Documents/MyPrgs/Python/Wav/TestVibro_Step3_MulCha_MulImp_ElaborateSingleImpact_v3_1__farr_for_spectrum_and_harms.py
+Step3 starts working
+N 1 20251218Сер2__01_ДВ_1_1канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.3249709
+N 2 20251218Сер2__02_ДВ_2_2 канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.003014617
+filePath2=C:\Users\user\Documents\MyPrgs\Python\Wav\results
+reading: 20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv : C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+In all 8 impacts
+Impact N 0: Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 1: Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 2: Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 3: Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 4: Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 5: Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 6: Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 7: Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv done, 1034640 vals read
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv done, 1034640 vals read
+reading saved impact ranges
+impact 1=1 :  [9.5, [12.9, 24.4]]
+Анализ затухания без модального анализа
+Impact N 0  tStart=9.5 tFin1=12.9 tFin2=24.4 ImpHB=12.9
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+PySide2/__init__.py: Unable to import shiboken2 from C:/Users/user/Documents/MyPrgs/Python/Wav, C:\Users\user\AppData\Local\Programs\Python\Python38\Lib\idlelib, C:\Users\user\AppData\Local\Programs\Python\Python38\python38.zip, C:\Users\user\AppData\Local\Programs\Python\Python38\DLLs, C:\Users\user\AppData\Local\Programs\Python\Python38\lib, C:\Users\user\AppData\Local\Programs\Python\Python38, C:\Users\user\AppData\Local\Programs\Python\Python38\lib\site-packages
+len(enS)=24481
+len(en1=24481 len(en2=24481 len(enS=24481
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+Signal Energy - Sensor 2
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+Signal Energy - Sum
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+results of impact0(1): decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555. Medium vals: decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555 decrSs=0.43043363901616555
+Дописали строку текущих значений в .csv-файл
+impact 2=2 :  [17.6, [23.6, 36.9]]
+Анализ затухания без модального анализа
+Impact N 1  tStart=17.6 tFin1=23.6 tFin2=36.9 ImpHB=23.6
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+len(enS)=43201
+len(en1=43201 len(en2=43201 len(enS=43201
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+Signal Energy - Sensor 2
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+Signal Energy - Sum
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+results of impact1(2): decr1=0.3164376889104704 decr2=0.40756155274864225 decrS=0.31817371420722057. Medium vals: decr1=0.1582188444552352 decr2=0.20378077637432113 decrS=0.15908685710361029 decrSs=0.31817371420722057
+Дописали строку текущих значений в .csv-файл
+impact 3=3 :  [27.7, [31.6, 47.3]]
+Анализ затухания без модального анализа
+Impact N 2  tStart=27.7 tFin1=31.6 tFin2=47.3 ImpHB=31.6
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+len(enS)=28081
+len(en1=28081 len(en2=28081 len(enS=28081
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+Signal Energy - Sensor 2
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+Signal Energy - Sum
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+results of impact2(3): decr1=0.3710573518795428 decr2=0.2634476420959584 decrS=0.3713135499245668. Medium vals: decr1=0.1236857839598476 decr2=0.0878158806986528 decrS=0.12377118330818893 decrSs=0.3713135499245668
+Дописали строку текущих значений в .csv-файл
+spectrum fun #2
+spectrum fun #2
+now len(f1)=14040  len(f2)=14040
+Корррекция _1_ спектр - добавляем mean, detrend, zero_padding_factor
+ use_window=True use_detrend=True use_mean=Falsezero_padding_factor=1
+spectrum fun #2
+spectrum fun #2
+Урезаем спектр до разумного набора.
+sensor 1: lim f[258]=65.89508920622485<=66, in all 258 vals
+sensor 2: lim f[258]=65.89508920622485<=66, in all 258 vals
+Nu len(f1)=14040  len(f2)=14040
+data 1
+Peaks of freqs: 20
+peakN 1 freq = 1.5384067518963 freqN= 7 ampl= 6.537701274465192e-06
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 3.2844612632289092e-06
+peakN 3 freq = 10.7688472632741 freqN= 43 ampl= 0.00012699724369769666
+peakN 4 freq = 15.640468644279052 freqN= 62 ampl= 2.6895964505664487e-06
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 3.528384955076911e-06
+peakN 6 freq = 22.81970015312845 freqN= 90 ampl= 2.2276519510481265e-06
+peakN 7 freq = 24.35810690502475 freqN= 96 ampl= 2.2357666226336036e-06
+peakN 8 freq = 28.204123784765503 freqN= 111 ampl= 2.6031069165076897e-06
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 2.4011562581041185e-05
+peakN 10 freq = 34.870553042982806 freqN= 137 ampl= 1.232627337006991e-06
+peakN 11 freq = 36.4089597948791 freqN= 143 ampl= 1.56612940703549e-06
+peakN 12 freq = 38.460168797407505 freqN= 151 ampl= 1.6073878308262512e-06
+peakN 13 freq = 42.30618567714826 freqN= 166 ampl= 1.5557708728177284e-06
+peakN 14 freq = 44.35739467967665 freqN= 174 ampl= 2.2496149564699195e-06
+peakN 15 freq = 46.152202556889 freqN= 181 ampl= 6.145615378654239e-06
+peakN 16 freq = 51.53662618852606 freqN= 202 ampl= 1.4250407741721148e-06
+peakN 17 freq = 54.61343969231866 freqN= 214 ampl= 1.0539487563155162e-06
+peakN 18 freq = 56.921049820163105 freqN= 223 ampl= 1.0910817646323827e-06
+peakN 19 freq = 61.792671201168055 freqN= 242 ampl= 3.675038905674375e-06
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 4.622292264103012e-06
+data 2
+Peaks of freqs: 20
+peakN 1 freq = 1.0256045012642 freqN= 5 ampl= 1.9508393687789745e-05
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 8.174706459816885e-07
+peakN 3 freq = 9.743242762009901 freqN= 39 ampl= 5.458350451625018e-06
+peakN 4 freq = 14.358463017698801 freqN= 57 ampl= 5.665807400453457e-07
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 1.4699430340867882e-06
+peakN 6 freq = 23.0761012784445 freqN= 91 ampl= 3.735807911737122e-07
+peakN 7 freq = 24.870909155656854 freqN= 98 ampl= 3.539742807456651e-07
+peakN 8 freq = 27.691321534133404 freqN= 109 ampl= 2.8233557984135923e-07
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 1.2135150705085983e-06
+peakN 10 freq = 33.8449485417186 freqN= 133 ampl= 4.350984542701046e-07
+peakN 11 freq = 35.63975641893095 freqN= 140 ampl= 3.574416334397967e-07
+peakN 12 freq = 39.22937217335566 freqN= 154 ampl= 4.529026897081539e-07
+peakN 13 freq = 44.100993554360606 freqN= 173 ampl= 1.7280035931243993e-05
+peakN 14 freq = 46.408603682205054 freqN= 182 ampl= 1.0188630259461086e-06
+peakN 15 freq = 49.99821943662975 freqN= 196 ampl= 3.387778740834527e-07
+peakN 16 freq = 53.07503294042235 freqN= 208 ampl= 3.338634445295879e-07
+peakN 17 freq = 55.126241942950756 freqN= 216 ampl= 4.5162414850232387e-07
+peakN 18 freq = 59.997863323955706 freqN= 235 ampl= 2.9508276532223906e-07
+peakN 19 freq = 62.305473451800154 freqN= 244 ampl= 3.9841824510456625e-07
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 8.536487601834674e-06
+
+Above peaks are chosen. Below choosing ones with amplitude big enough
+
+1 cur_peak=6.537701274465192e-06 max_peak1=6.537701274465192e-06 - this is cur max
+2 cur_peak=3.2844612632289092e-06 max_peak1=6.537701274465192e-06 - tis is NOT curmax
+3 cur_peak=0.00012699724369769666 max_peak1=0.00012699724369769666 - this is cur max
+4 cur_peak=2.6895964505664487e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+5 cur_peak=3.528384955076911e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+6 cur_peak=2.2276519510481265e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+7 cur_peak=2.2357666226336036e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+8 cur_peak=2.6031069165076897e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+9 cur_peak=2.4011562581041185e-05 max_peak1=0.00012699724369769666 - tis is NOT curmax
+10 cur_peak=1.232627337006991e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+11 cur_peak=1.56612940703549e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+12 cur_peak=1.6073878308262512e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+13 cur_peak=1.5557708728177284e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+14 cur_peak=2.2496149564699195e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+15 cur_peak=6.145615378654239e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+16 cur_peak=1.4250407741721148e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+17 cur_peak=1.0539487563155162e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+18 cur_peak=1.0910817646323827e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+19 cur_peak=3.675038905674375e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+20 cur_peak=4.622292264103012e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+max_peak1=0.00012699724369769666
+choosing
+1) cur_peak=6.537701274465192e-06 max peak=0.00012699724369769666 %diff=94.85209199498259 > 10 - NOT chosen
+2) cur_peak=3.2844612632289092e-06 max peak=0.00012699724369769666 %diff=97.41375389922067 > 10 - NOT chosen
+3) cur_peak=0.00012699724369769666 max peak=0.00012699724369769666 %diff=0.0 < 10 - chosen!
+4) cur_peak=2.6895964505664487e-06 max peak=0.00012699724369769666 %diff=97.882161555436 > 10 - NOT chosen
+5) cur_peak=3.528384955076911e-06 max peak=0.00012699724369769666 %diff=97.22168383159885 > 10 - NOT chosen
+6) cur_peak=2.2276519510481265e-06 max peak=0.00012699724369769666 %diff=98.24590527621937 > 10 - NOT chosen
+7) cur_peak=2.2357666226336036e-06 max peak=0.00012699724369769666 %diff=98.23951563235845 > 10 - NOT chosen
+8) cur_peak=2.6031069165076897e-06 max peak=0.00012699724369769666 %diff=97.95026502881898 > 10 - NOT chosen
+9) cur_peak=2.4011562581041185e-05 max peak=0.00012699724369769666 %diff=81.09284746510077 > 10 - NOT chosen
+10) cur_peak=1.232627337006991e-06 max peak=0.00012699724369769666 %diff=99.02940622873587 > 10 - NOT chosen
+11) cur_peak=1.56612940703549e-06 max peak=0.00012699724369769666 %diff=98.76680047421857 > 10 - NOT chosen
+12) cur_peak=1.6073878308262512e-06 max peak=0.00012699724369769666 %diff=98.73431282126684 > 10 - NOT chosen
+13) cur_peak=1.5557708728177284e-06 max peak=0.00012699724369769666 %diff=98.77495697739623 > 10 - NOT chosen
+14) cur_peak=2.2496149564699195e-06 max peak=0.00012699724369769666 %diff=98.22861119582652 > 10 - NOT chosen
+15) cur_peak=6.145615378654239e-06 max peak=0.00012699724369769666 %diff=95.16082774734606 > 10 - NOT chosen
+16) cur_peak=1.4250407741721148e-06 max peak=0.00012699724369769666 %diff=98.87789629705328 > 10 - NOT chosen
+17) cur_peak=1.0539487563155162e-06 max peak=0.00012699724369769666 %diff=99.17010107807982 > 10 - NOT chosen
+18) cur_peak=1.0910817646323827e-06 max peak=0.00012699724369769666 %diff=99.14086185427017 > 10 - NOT chosen
+19) cur_peak=3.675038905674375e-06 max peak=0.00012699724369769666 %diff=97.10620577370764 > 10 - NOT chosen
+20) cur_peak=4.622292264103012e-06 max peak=0.00012699724369769666 %diff=96.36032079947667 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 1st sensor:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+1 cur_peak=1.9508393687789745e-05 max_peak1=1.9508393687789745e-05 - this is cur max
+2 cur_peak=8.174706459816885e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+3 cur_peak=5.458350451625018e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+4 cur_peak=5.665807400453457e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+5 cur_peak=1.4699430340867882e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+6 cur_peak=3.735807911737122e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+7 cur_peak=3.539742807456651e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+8 cur_peak=2.8233557984135923e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+9 cur_peak=1.2135150705085983e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+10 cur_peak=4.350984542701046e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+11 cur_peak=3.574416334397967e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+12 cur_peak=4.529026897081539e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+13 cur_peak=1.7280035931243993e-05 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+14 cur_peak=1.0188630259461086e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+15 cur_peak=3.387778740834527e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+16 cur_peak=3.338634445295879e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+17 cur_peak=4.5162414850232387e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+18 cur_peak=2.9508276532223906e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+19 cur_peak=3.9841824510456625e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+20 cur_peak=8.536487601834674e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+max_peak2=1.9508393687789745e-05
+1) cur_peak=1.9508393687789745e-05 max peak2=1.9508393687789745e-05 %diff=0.0 < 10 - chosen!
+2) cur_peak=8.174706459816885e-07 max peak2=1.9508393687789745e-05 %diff=95.80964656001719 > 10 - NOT chosen
+3) cur_peak=5.458350451625018e-06 max peak2=1.9508393687789745e-05 %diff=72.02050287184134 > 10 - NOT chosen
+4) cur_peak=5.665807400453457e-07 max peak2=1.9508393687789745e-05 %diff=97.09570788291008 > 10 - NOT chosen
+5) cur_peak=1.4699430340867882e-06 max peak2=1.9508393687789745e-05 %diff=92.46507396963788 > 10 - NOT chosen
+6) cur_peak=3.735807911737122e-07 max peak2=1.9508393687789745e-05 %diff=98.08502536317208 > 10 - NOT chosen
+7) cur_peak=3.539742807456651e-07 max peak2=1.9508393687789745e-05 %diff=98.18552830945167 > 10 - NOT chosen
+8) cur_peak=2.8233557984135923e-07 max peak2=1.9508393687789745e-05 %diff=98.55274819464981 > 10 - NOT chosen
+9) cur_peak=1.2135150705085983e-06 max peak2=1.9508393687789745e-05 %diff=93.77952336860962 > 10 - NOT chosen
+10) cur_peak=4.350984542701046e-07 max peak2=1.9508393687789745e-05 %diff=97.76968590426574 > 10 - NOT chosen
+11) cur_peak=3.574416334397967e-07 max peak2=1.9508393687789745e-05 %diff=98.16775466417043 > 10 - NOT chosen
+12) cur_peak=4.529026897081539e-07 max peak2=1.9508393687789745e-05 %diff=97.67842141717888 > 10 - NOT chosen
+13) cur_peak=1.7280035931243993e-05 max peak2=1.9508393687789745e-05 %diff=11.42255888520681 > 10 - NOT chosen
+14) cur_peak=1.0188630259461086e-06 max peak2=1.9508393687789745e-05 %diff=94.7773094891774 > 10 - NOT chosen
+15) cur_peak=3.387778740834527e-07 max peak2=1.9508393687789745e-05 %diff=98.26342506971501 > 10 - NOT chosen
+16) cur_peak=3.338634445295879e-07 max peak2=1.9508393687789745e-05 %diff=98.2886164290474 > 10 - NOT chosen
+17) cur_peak=4.5162414850232387e-07 max peak2=1.9508393687789745e-05 %diff=97.68497521769312 > 10 - NOT chosen
+18) cur_peak=2.9508276532223906e-07 max peak2=1.9508393687789745e-05 %diff=98.48740613889227 > 10 - NOT chosen
+19) cur_peak=3.9841824510456625e-07 max peak2=1.9508393687789745e-05 %diff=97.9577086074804 > 10 - NOT chosen
+20) cur_peak=8.536487601834674e-06 max peak2=1.9508393687789745e-05 %diff=56.24197594916469 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 2nd sensor:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+Sorted data of sensor 1 by amp descendence
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Again:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Sorted data of sensor 1 by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Sorted data of sensor 2 by amp descendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Sorted data of sensor 2 by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+
+Above freqs with big ampls are chosen - below choosing vals close to standard vals
+Finding fitting frequences for frequency N1 = 3
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Top MAX amplitude frequencies:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Finally chosen:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (1st sensor) (max amplitude among nearest):
+7)  freq=1.5384067518963 ampl=6.537701274465192e-06
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Top MAX amplitude frequencies:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Finally chosen:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (2nd sensor) (max amplitude among nearest):
+5)  freq=1.0256045012642 ampl=1.9508393687789745e-05
+val 1.0256045012642 is suitable, but is already present in arr at  [1]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N2 = 9.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Chosen :nothing, no approximate frequences
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Top MAX amplitude frequencies:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Finally chosen:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N2 = 9.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+39)  freq=9.743242762009901 ampl=5.458350451625018e-06
+val 9.743242762009901 is suitable, but is already present in arr at  [3]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N3 = 10.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Top MAX amplitude frequencies:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Finally chosen:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N3 = 10.5 chosen frequency (1st sensor) (max amplitude among nearest):
+43)  freq=10.7688472632741 ampl=0.00012699724369769666
+val 10.7688472632741 is suitable, but is already present in arr at  [1]
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+no frequencies in this range found, making range wider, now it is: 10.0...14.75
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Top MAX amplitude frequencies:
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N4 = 19
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Finally chosen:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N4 = 19 chosen frequency (2nd sensor) (max amplitude among nearest):
+73)  freq=18.4608810227556 ampl=1.4699430340867882e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N5 = 29
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Top MAX amplitude frequencies:
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Top MAX amplitude frequencies:
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N6 = 31.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Finally chosen:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (1st sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=2.4011562581041185e-05
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Finally chosen:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=1.2135150705085983e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+Ns: [5, 24, 39, 57, 73, 122]
+amps: [5, 24, 39, 57, 73, 122]
+Finding fitting frequences for frequency N7 = 43.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Top MAX amplitude frequencies:
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Top MAX amplitude frequencies:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Finally chosen:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N7 = 43.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+173)  freq=44.100993554360606 ampl=1.7280035931243993e-05
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+Ns: [5, 24, 39, 57, 73, 122, 173]
+amps: [5, 24, 39, 57, 73, 122, 173]
+Finding fitting frequences for frequency N8 = 47
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+no frequencies in this range found, making range wider, now it is: 45.25...53.25
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Top MAX amplitude frequencies:
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Top MAX amplitude frequencies:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Finally chosen:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N8 = 47 chosen frequency (2nd sensor) (max amplitude among nearest):
+182)  freq=46.408603682205054 ampl=1.0188630259461086e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+Finding fitting frequences for frequency N9 = 59.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Top MAX amplitude frequencies:
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Top MAX amplitude frequencies:
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+
+Finaly - chosen frequences:
+For 1st sensor: 4
+Ns:  [43, 24, 7, 122]
+freqs:  [10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+ampls:  [0.00012699724369769666, 3.2844612632289092e-06, 6.537701274465192e-06, 2.4011562581041185e-05]
+Sorted data of 1st sensor renewed by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+For 2nd sensor: 8
+Ns:  [5, 24, 39, 57, 73, 122, 173, 182]
+freqs:  [1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+ampls:  [1.9508393687789745e-05, 8.174706459816885e-07, 5.458350451625018e-06, 5.665807400453457e-07, 1.4699430340867882e-06, 1.2135150705085983e-06, 1.7280035931243993e-05, 1.0188630259461086e-06]
+Sorted data of 2nd sensor renewed by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Traceback (most recent call last):
+  File "C:/Users/user/Documents/MyPrgs/Python/Wav/TestVibro_Step3_MulCha_MulImp_ElaborateSingleImpact_v3_1__farr_for_spectrum_and_harms.py", line 963, in <module>
+    writer_ff.writerow([str(i+1), str(peakFreqs1_chosen[i]), str(peaks1_chosen[i]), "1", str(ImpactN)])
+NameError: name 'ImpactN' is not defined
+>>> 
+= RESTART: C:/Users/user/Documents/MyPrgs/Python/Wav/TestVibro_Step3_MulCha_MulImp_ElaborateSingleImpact_v3_1__farr_for_spectrum_and_harms.py
+Step3 starts working
+N 1 20251218Сер2__01_ДВ_1_1канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.3249709
+N 2 20251218Сер2__02_ДВ_2_2 канал fs=7200.0 => dt=1/fs=0.0001388888888888889 tmax=143.69986111111112 es=0.003014617
+filePath2=C:\Users\user\Documents\MyPrgs\Python\Wav\results
+reading: 20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv : C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_and_20251218Сер2__02_ДВ_2_2 канал_ImpactsRanges.csv
+Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+In all 8 impacts
+Impact N 0: Impact N 1: [9.5, [12.9, 24.4]] ImpLB=9.5 - ImpHB=12.9
+Impact N 1: Impact N 2: [17.6, [23.6, 36.9]] ImpLB=17.6 - ImpHB=23.6
+Impact N 2: Impact N 3: [27.7, [31.6, 47.3]] ImpLB=27.7 - ImpHB=31.6
+Impact N 3: Impact N 8: [85.3, [90.7, 95.5]] ImpLB=85.3 - ImpHB=90.7
+Impact N 4: Impact N 9: [97.9, [101.1, 103.1]] ImpLB=97.9 - ImpHB=101.1
+Impact N 5: Impact N 10: [107.0, [113.5, 111.7]] ImpLB=107.0 - ImpHB=111.7
+Impact N 6: Impact N 11: [120.2, [125.7, 125.7]] ImpLB=120.2 - ImpHB=125.7
+Impact N 7: Impact N 12: [132.7, [136.3, 136.3]] ImpLB=132.7 - ImpHB=136.3
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+reading C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__01_ДВ_1_1канал_signal_whole.csv done, 1034640 vals read
+trying to read C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv
+C:\Users\user\Documents\MyPrgs\Python\Wav\data\20251218Сер2__02_ДВ_2_2 канал_signal_whole.csv done, 1034640 vals read
+reading saved impact ranges
+impact 1=1 :  [9.5, [12.9, 24.4]]
+Анализ затухания без модального анализа
+Impact N 0  tStart=9.5 tFin1=12.9 tFin2=24.4 ImpHB=12.9
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+read vals: ts:24481 vals, +si1: 24481 vals, +en1: 24481 +si2: 24481 vals, +en2: 24481 
+PySide2/__init__.py: Unable to import shiboken2 from C:/Users/user/Documents/MyPrgs/Python/Wav, C:\Users\user\AppData\Local\Programs\Python\Python38\Lib\idlelib, C:\Users\user\AppData\Local\Programs\Python\Python38\python38.zip, C:\Users\user\AppData\Local\Programs\Python\Python38\DLLs, C:\Users\user\AppData\Local\Programs\Python\Python38\lib, C:\Users\user\AppData\Local\Programs\Python\Python38, C:\Users\user\AppData\Local\Programs\Python\Python38\lib\site-packages
+len(enS)=24481
+len(en1=24481 len(en2=24481 len(enS=24481
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+N=24450=SectLenInt*QSects=489*50=24450 - ignoring this point
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+peakQ=50 signalQ=24481
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+Signal Energy - Sensor 2
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+Signal Energy - Sum
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+alfa1=-13.045976033785964 beta1=-0.4320820471933743 A01=2.1587611687528147e-06 delta1=0.4320820471933743
+alfa2=-16.111782520407072 beta2=-0.4906829482665929 A02=1.0063331003618155e-07 delta2=0.4906829482665929
+alfaS=-13.040941729619878 betaS=-0.43043363901616555 A0S=2.1696564311196317e-06 deltaS=0.43043363901616555
+results of impact0(1): decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555. Medium vals: decr1=0.4320820471933743 decr2=0.4906829482665929 decrS=0.43043363901616555 decrSs=0.43043363901616555
+Дописали строку текущих значений в .csv-файл
+impact 2=2 :  [17.6, [23.6, 36.9]]
+Анализ затухания без модального анализа
+Impact N 1  tStart=17.6 tFin1=23.6 tFin2=36.9 ImpHB=23.6
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+read vals: ts:43201 vals, +si1: 43201 vals, +en1: 43201 +si2: 43201 vals, +en2: 43201 
+len(enS)=43201
+len(en1=43201 len(en2=43201 len(enS=43201
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+N=43200=SectLenInt*QSects=864*50=43200 - ignoring this point
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+peakQ=50 signalQ=43201
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+Signal Energy - Sensor 2
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+Signal Energy - Sum
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+alfa1=-12.878675930341013 beta1=-0.3164376889104704 A01=2.551890935313725e-06 delta1=0.3164376889104704
+alfa2=-15.899913488401802 beta2=-0.40756155274864225 A02=1.243813623252902e-07 delta2=0.40756155274864225
+alfaS=-12.866787066844772 betaS=-0.31817371420722057 A0S=2.582411083751753e-06 deltaS=0.31817371420722057
+results of impact1(2): decr1=0.3164376889104704 decr2=0.40756155274864225 decrS=0.31817371420722057. Medium vals: decr1=0.1582188444552352 decr2=0.20378077637432113 decrS=0.15908685710361029 decrSs=0.31817371420722057
+Дописали строку текущих значений в .csv-файл
+impact 3=3 :  [27.7, [31.6, 47.3]]
+Анализ затухания без модального анализа
+Impact N 2  tStart=27.7 tFin1=31.6 tFin2=47.3 ImpHB=31.6
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+read vals: ts:28081 vals, +si1: 28081 vals, +en1: 28081 +si2: 28081 vals, +en2: 28081 
+len(enS)=28081
+len(en1=28081 len(en2=28081 len(enS=28081
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+N=28050=SectLenInt*QSects=561*50=28050 - ignoring this point
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+peakQ=50 signalQ=28081
+linear interpolation calc'd successfully
+Show envelope partially turned off
+Approximating peaks
+Signal Energy - Sensor 1
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+Signal Energy - Sensor 2
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+Signal Energy - Sum
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+alfa1=-13.032538626499148 beta1=-0.3710573518795428 A01=2.1879650949074186e-06 delta1=0.3710573518795428
+alfa2=-16.66192242762912 beta2=-0.2634476420959584 A02=5.805224664658907e-08 delta2=0.2634476420959584
+alfaS=-13.026613108984867 betaS=-0.3713135499245668 A0S=2.2009684080303466e-06 deltaS=0.3713135499245668
+results of impact2(3): decr1=0.3710573518795428 decr2=0.2634476420959584 decrS=0.3713135499245668. Medium vals: decr1=0.1236857839598476 decr2=0.0878158806986528 decrS=0.12377118330818893 decrSs=0.3713135499245668
+Дописали строку текущих значений в .csv-файл
+spectrum fun #2
+spectrum fun #2
+now len(f1)=14040  len(f2)=14040
+Корррекция _1_ спектр - добавляем mean, detrend, zero_padding_factor
+ use_window=True use_detrend=True use_mean=Falsezero_padding_factor=1
+spectrum fun #2
+spectrum fun #2
+Урезаем спектр до разумного набора.
+sensor 1: lim f[258]=65.89508920622485<=66, in all 258 vals
+sensor 2: lim f[258]=65.89508920622485<=66, in all 258 vals
+Nu len(f1)=14040  len(f2)=14040
+data 1
+Peaks of freqs: 20
+peakN 1 freq = 1.5384067518963 freqN= 7 ampl= 6.537701274465192e-06
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 3.2844612632289092e-06
+peakN 3 freq = 10.7688472632741 freqN= 43 ampl= 0.00012699724369769666
+peakN 4 freq = 15.640468644279052 freqN= 62 ampl= 2.6895964505664487e-06
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 3.528384955076911e-06
+peakN 6 freq = 22.81970015312845 freqN= 90 ampl= 2.2276519510481265e-06
+peakN 7 freq = 24.35810690502475 freqN= 96 ampl= 2.2357666226336036e-06
+peakN 8 freq = 28.204123784765503 freqN= 111 ampl= 2.6031069165076897e-06
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 2.4011562581041185e-05
+peakN 10 freq = 34.870553042982806 freqN= 137 ampl= 1.232627337006991e-06
+peakN 11 freq = 36.4089597948791 freqN= 143 ampl= 1.56612940703549e-06
+peakN 12 freq = 38.460168797407505 freqN= 151 ampl= 1.6073878308262512e-06
+peakN 13 freq = 42.30618567714826 freqN= 166 ampl= 1.5557708728177284e-06
+peakN 14 freq = 44.35739467967665 freqN= 174 ampl= 2.2496149564699195e-06
+peakN 15 freq = 46.152202556889 freqN= 181 ampl= 6.145615378654239e-06
+peakN 16 freq = 51.53662618852606 freqN= 202 ampl= 1.4250407741721148e-06
+peakN 17 freq = 54.61343969231866 freqN= 214 ampl= 1.0539487563155162e-06
+peakN 18 freq = 56.921049820163105 freqN= 223 ampl= 1.0910817646323827e-06
+peakN 19 freq = 61.792671201168055 freqN= 242 ampl= 3.675038905674375e-06
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 4.622292264103012e-06
+data 2
+Peaks of freqs: 20
+peakN 1 freq = 1.0256045012642 freqN= 5 ampl= 1.9508393687789745e-05
+peakN 2 freq = 5.897225882269151 freqN= 24 ampl= 8.174706459816885e-07
+peakN 3 freq = 9.743242762009901 freqN= 39 ampl= 5.458350451625018e-06
+peakN 4 freq = 14.358463017698801 freqN= 57 ampl= 5.665807400453457e-07
+peakN 5 freq = 18.4608810227556 freqN= 73 ampl= 1.4699430340867882e-06
+peakN 6 freq = 23.0761012784445 freqN= 91 ampl= 3.735807911737122e-07
+peakN 7 freq = 24.870909155656854 freqN= 98 ampl= 3.539742807456651e-07
+peakN 8 freq = 27.691321534133404 freqN= 109 ampl= 2.8233557984135923e-07
+peakN 9 freq = 31.024536163242054 freqN= 122 ampl= 1.2135150705085983e-06
+peakN 10 freq = 33.8449485417186 freqN= 133 ampl= 4.350984542701046e-07
+peakN 11 freq = 35.63975641893095 freqN= 140 ampl= 3.574416334397967e-07
+peakN 12 freq = 39.22937217335566 freqN= 154 ampl= 4.529026897081539e-07
+peakN 13 freq = 44.100993554360606 freqN= 173 ampl= 1.7280035931243993e-05
+peakN 14 freq = 46.408603682205054 freqN= 182 ampl= 1.0188630259461086e-06
+peakN 15 freq = 49.99821943662975 freqN= 196 ampl= 3.387778740834527e-07
+peakN 16 freq = 53.07503294042235 freqN= 208 ampl= 3.338634445295879e-07
+peakN 17 freq = 55.126241942950756 freqN= 216 ampl= 4.5162414850232387e-07
+peakN 18 freq = 59.997863323955706 freqN= 235 ampl= 2.9508276532223906e-07
+peakN 19 freq = 62.305473451800154 freqN= 244 ampl= 3.9841824510456625e-07
+peakN 20 freq = 64.61308357964461 freqN= 253 ampl= 8.536487601834674e-06
+
+Above peaks are chosen. Below choosing ones with amplitude big enough
+
+1 cur_peak=6.537701274465192e-06 max_peak1=6.537701274465192e-06 - this is cur max
+2 cur_peak=3.2844612632289092e-06 max_peak1=6.537701274465192e-06 - tis is NOT curmax
+3 cur_peak=0.00012699724369769666 max_peak1=0.00012699724369769666 - this is cur max
+4 cur_peak=2.6895964505664487e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+5 cur_peak=3.528384955076911e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+6 cur_peak=2.2276519510481265e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+7 cur_peak=2.2357666226336036e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+8 cur_peak=2.6031069165076897e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+9 cur_peak=2.4011562581041185e-05 max_peak1=0.00012699724369769666 - tis is NOT curmax
+10 cur_peak=1.232627337006991e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+11 cur_peak=1.56612940703549e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+12 cur_peak=1.6073878308262512e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+13 cur_peak=1.5557708728177284e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+14 cur_peak=2.2496149564699195e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+15 cur_peak=6.145615378654239e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+16 cur_peak=1.4250407741721148e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+17 cur_peak=1.0539487563155162e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+18 cur_peak=1.0910817646323827e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+19 cur_peak=3.675038905674375e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+20 cur_peak=4.622292264103012e-06 max_peak1=0.00012699724369769666 - tis is NOT curmax
+max_peak1=0.00012699724369769666
+choosing
+1) cur_peak=6.537701274465192e-06 max peak=0.00012699724369769666 %diff=94.85209199498259 > 10 - NOT chosen
+2) cur_peak=3.2844612632289092e-06 max peak=0.00012699724369769666 %diff=97.41375389922067 > 10 - NOT chosen
+3) cur_peak=0.00012699724369769666 max peak=0.00012699724369769666 %diff=0.0 < 10 - chosen!
+4) cur_peak=2.6895964505664487e-06 max peak=0.00012699724369769666 %diff=97.882161555436 > 10 - NOT chosen
+5) cur_peak=3.528384955076911e-06 max peak=0.00012699724369769666 %diff=97.22168383159885 > 10 - NOT chosen
+6) cur_peak=2.2276519510481265e-06 max peak=0.00012699724369769666 %diff=98.24590527621937 > 10 - NOT chosen
+7) cur_peak=2.2357666226336036e-06 max peak=0.00012699724369769666 %diff=98.23951563235845 > 10 - NOT chosen
+8) cur_peak=2.6031069165076897e-06 max peak=0.00012699724369769666 %diff=97.95026502881898 > 10 - NOT chosen
+9) cur_peak=2.4011562581041185e-05 max peak=0.00012699724369769666 %diff=81.09284746510077 > 10 - NOT chosen
+10) cur_peak=1.232627337006991e-06 max peak=0.00012699724369769666 %diff=99.02940622873587 > 10 - NOT chosen
+11) cur_peak=1.56612940703549e-06 max peak=0.00012699724369769666 %diff=98.76680047421857 > 10 - NOT chosen
+12) cur_peak=1.6073878308262512e-06 max peak=0.00012699724369769666 %diff=98.73431282126684 > 10 - NOT chosen
+13) cur_peak=1.5557708728177284e-06 max peak=0.00012699724369769666 %diff=98.77495697739623 > 10 - NOT chosen
+14) cur_peak=2.2496149564699195e-06 max peak=0.00012699724369769666 %diff=98.22861119582652 > 10 - NOT chosen
+15) cur_peak=6.145615378654239e-06 max peak=0.00012699724369769666 %diff=95.16082774734606 > 10 - NOT chosen
+16) cur_peak=1.4250407741721148e-06 max peak=0.00012699724369769666 %diff=98.87789629705328 > 10 - NOT chosen
+17) cur_peak=1.0539487563155162e-06 max peak=0.00012699724369769666 %diff=99.17010107807982 > 10 - NOT chosen
+18) cur_peak=1.0910817646323827e-06 max peak=0.00012699724369769666 %diff=99.14086185427017 > 10 - NOT chosen
+19) cur_peak=3.675038905674375e-06 max peak=0.00012699724369769666 %diff=97.10620577370764 > 10 - NOT chosen
+20) cur_peak=4.622292264103012e-06 max peak=0.00012699724369769666 %diff=96.36032079947667 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 1st sensor:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+1 cur_peak=1.9508393687789745e-05 max_peak1=1.9508393687789745e-05 - this is cur max
+2 cur_peak=8.174706459816885e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+3 cur_peak=5.458350451625018e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+4 cur_peak=5.665807400453457e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+5 cur_peak=1.4699430340867882e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+6 cur_peak=3.735807911737122e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+7 cur_peak=3.539742807456651e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+8 cur_peak=2.8233557984135923e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+9 cur_peak=1.2135150705085983e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+10 cur_peak=4.350984542701046e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+11 cur_peak=3.574416334397967e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+12 cur_peak=4.529026897081539e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+13 cur_peak=1.7280035931243993e-05 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+14 cur_peak=1.0188630259461086e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+15 cur_peak=3.387778740834527e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+16 cur_peak=3.338634445295879e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+17 cur_peak=4.5162414850232387e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+18 cur_peak=2.9508276532223906e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+19 cur_peak=3.9841824510456625e-07 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+20 cur_peak=8.536487601834674e-06 max_peak1=1.9508393687789745e-05 - tis is NOT curmax
+max_peak2=1.9508393687789745e-05
+1) cur_peak=1.9508393687789745e-05 max peak2=1.9508393687789745e-05 %diff=0.0 < 10 - chosen!
+2) cur_peak=8.174706459816885e-07 max peak2=1.9508393687789745e-05 %diff=95.80964656001719 > 10 - NOT chosen
+3) cur_peak=5.458350451625018e-06 max peak2=1.9508393687789745e-05 %diff=72.02050287184134 > 10 - NOT chosen
+4) cur_peak=5.665807400453457e-07 max peak2=1.9508393687789745e-05 %diff=97.09570788291008 > 10 - NOT chosen
+5) cur_peak=1.4699430340867882e-06 max peak2=1.9508393687789745e-05 %diff=92.46507396963788 > 10 - NOT chosen
+6) cur_peak=3.735807911737122e-07 max peak2=1.9508393687789745e-05 %diff=98.08502536317208 > 10 - NOT chosen
+7) cur_peak=3.539742807456651e-07 max peak2=1.9508393687789745e-05 %diff=98.18552830945167 > 10 - NOT chosen
+8) cur_peak=2.8233557984135923e-07 max peak2=1.9508393687789745e-05 %diff=98.55274819464981 > 10 - NOT chosen
+9) cur_peak=1.2135150705085983e-06 max peak2=1.9508393687789745e-05 %diff=93.77952336860962 > 10 - NOT chosen
+10) cur_peak=4.350984542701046e-07 max peak2=1.9508393687789745e-05 %diff=97.76968590426574 > 10 - NOT chosen
+11) cur_peak=3.574416334397967e-07 max peak2=1.9508393687789745e-05 %diff=98.16775466417043 > 10 - NOT chosen
+12) cur_peak=4.529026897081539e-07 max peak2=1.9508393687789745e-05 %diff=97.67842141717888 > 10 - NOT chosen
+13) cur_peak=1.7280035931243993e-05 max peak2=1.9508393687789745e-05 %diff=11.42255888520681 > 10 - NOT chosen
+14) cur_peak=1.0188630259461086e-06 max peak2=1.9508393687789745e-05 %diff=94.7773094891774 > 10 - NOT chosen
+15) cur_peak=3.387778740834527e-07 max peak2=1.9508393687789745e-05 %diff=98.26342506971501 > 10 - NOT chosen
+16) cur_peak=3.338634445295879e-07 max peak2=1.9508393687789745e-05 %diff=98.2886164290474 > 10 - NOT chosen
+17) cur_peak=4.5162414850232387e-07 max peak2=1.9508393687789745e-05 %diff=97.68497521769312 > 10 - NOT chosen
+18) cur_peak=2.9508276532223906e-07 max peak2=1.9508393687789745e-05 %diff=98.48740613889227 > 10 - NOT chosen
+19) cur_peak=3.9841824510456625e-07 max peak2=1.9508393687789745e-05 %diff=97.9577086074804 > 10 - NOT chosen
+20) cur_peak=8.536487601834674e-06 max peak2=1.9508393687789745e-05 %diff=56.24197594916469 > 10 - NOT chosen
+Chosen (by amp) frequences (1) of 2nd sensor:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+Sorted data of sensor 1 by amp descendence
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Again:
+1)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+2)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+3)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+4)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+5)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+6)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+7)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+8)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+9)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+10)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+11)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+12)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+13)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+14)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+15)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+16)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+17)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+18)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+19)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+20)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+Sorted data of sensor 1 by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 62 freq=15.640468644279052 ampl=2.6895964505664487e-06
+5)  N: 73 freq=18.4608810227556 ampl=3.528384955076911e-06
+6)  N: 90 freq=22.81970015312845 ampl=2.2276519510481265e-06
+7)  N: 96 freq=24.35810690502475 ampl=2.2357666226336036e-06
+8)  N: 111 freq=28.204123784765503 ampl=2.6031069165076897e-06
+9)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+10)  N: 137 freq=34.870553042982806 ampl=1.232627337006991e-06
+11)  N: 143 freq=36.4089597948791 ampl=1.56612940703549e-06
+12)  N: 151 freq=38.460168797407505 ampl=1.6073878308262512e-06
+13)  N: 166 freq=42.30618567714826 ampl=1.5557708728177284e-06
+14)  N: 174 freq=44.35739467967665 ampl=2.2496149564699195e-06
+15)  N: 181 freq=46.152202556889 ampl=6.145615378654239e-06
+16)  N: 202 freq=51.53662618852606 ampl=1.4250407741721148e-06
+17)  N: 214 freq=54.61343969231866 ampl=1.0539487563155162e-06
+18)  N: 223 freq=56.921049820163105 ampl=1.0910817646323827e-06
+19)  N: 242 freq=61.792671201168055 ampl=3.675038905674375e-06
+20)  N: 253 freq=64.61308357964461 ampl=4.622292264103012e-06
+Sorted data of sensor 2 by amp descendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+3)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+8)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+9)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+10)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+11)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+12)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+13)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+14)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+15)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+16)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+17)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+18)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+19)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+20)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+Sorted data of sensor 2 by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 91 freq=23.0761012784445 ampl=3.735807911737122e-07
+7)  N: 98 freq=24.870909155656854 ampl=3.539742807456651e-07
+8)  N: 109 freq=27.691321534133404 ampl=2.8233557984135923e-07
+9)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+10)  N: 133 freq=33.8449485417186 ampl=4.350984542701046e-07
+11)  N: 140 freq=35.63975641893095 ampl=3.574416334397967e-07
+12)  N: 154 freq=39.22937217335566 ampl=4.529026897081539e-07
+13)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+14)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+15)  N: 196 freq=49.99821943662975 ampl=3.387778740834527e-07
+16)  N: 208 freq=53.07503294042235 ampl=3.338634445295879e-07
+17)  N: 216 freq=55.126241942950756 ampl=4.5162414850232387e-07
+18)  N: 235 freq=59.997863323955706 ampl=2.9508276532223906e-07
+19)  N: 244 freq=62.305473451800154 ampl=3.9841824510456625e-07
+20)  N: 253 freq=64.61308357964461 ampl=8.536487601834674e-06
+
+Above freqs with big ampls are chosen - below choosing vals close to standard vals
+Finding fitting frequences for frequency N1 = 3
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Top MAX amplitude frequencies:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+Finally chosen:
+N=1 freq=1.5384067518963 amp=6.537701274465192e-06 dFr=1.4615932481037
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (1st sensor) (max amplitude among nearest):
+7)  freq=1.5384067518963 ampl=6.537701274465192e-06
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 1 : 3
+Chosen range: 20%: 0...4.3
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Top MAX amplitude frequencies:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+Finally chosen:
+N=1 freq=1.0256045012642 amp=1.9508393687789745e-05 dFr=1.9743954987358
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N1 = 3 chosen frequency (2nd sensor) (max amplitude among nearest):
+5)  freq=1.0256045012642 ampl=1.9508393687789745e-05
+val 1.0256045012642 is suitable, but is already present in arr at  [1]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N2 = 9.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Chosen :nothing, no approximate frequences
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 2 : 9.5
+Chosen range: 20%: 8.2...9.7
+no frequencies in this range found, making range wider, now it is: 6.25...10.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Top MAX amplitude frequencies:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+Finally chosen:
+N=3 freq=9.743242762009901 amp=5.458350451625018e-06 dFr=0.24324276200990091
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N2 = 9.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+39)  freq=9.743242762009901 ampl=5.458350451625018e-06
+val 9.743242762009901 is suitable, but is already present in arr at  [3]
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N3 = 10.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Top MAX amplitude frequencies:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+Finally chosen:
+N=3 freq=10.7688472632741 amp=0.00012699724369769666 dFr=0.26884726327410036
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N3 = 10.5 chosen frequency (1st sensor) (max amplitude among nearest):
+43)  freq=10.7688472632741 ampl=0.00012699724369769666
+val 10.7688472632741 is suitable, but is already present in arr at  [1]
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 3 : 10.5
+Chosen range: 20%: 10.3...12.2
+no frequencies in this range found, making range wider, now it is: 10.0...14.75
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Top MAX amplitude frequencies:
+N=4 freq=14.358463017698801 amp=5.665807400453457e-07 dFr=3.858463017698801
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801]
+Ns: [5, 24, 39, 57]
+amps: [5, 24, 39, 57]
+Finding fitting frequences for frequency N4 = 19
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=3.528384955076911e-06 dFr=0.5391189772443994
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 4 : 19
+Chosen range: 20%: 17.3...21.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Top MAX amplitude frequencies:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+Finally chosen:
+N=5 freq=18.4608810227556 amp=1.4699430340867882e-06 dFr=0.5391189772443994
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N4 = 19 chosen frequency (2nd sensor) (max amplitude among nearest):
+73)  freq=18.4608810227556 ampl=1.4699430340867882e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N5 = 29
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Top MAX amplitude frequencies:
+N=8 freq=28.204123784765503 amp=2.6031069165076897e-06 dFr=0.7958762152344967
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963]
+Ns: [43, 24, 7]
+amps: [43, 24, 7]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 5 : 29
+Chosen range: 20%: 27.0...29.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Top MAX amplitude frequencies:
+N=8 freq=27.691321534133404 amp=2.8233557984135923e-07 dFr=1.3086784658665955
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556]
+Ns: [5, 24, 39, 57, 73]
+amps: [5, 24, 39, 57, 73]
+Finding fitting frequences for frequency N6 = 31.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+Finally chosen:
+N=9 freq=31.024536163242054 amp=2.4011562581041185e-05 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (1st sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=2.4011562581041185e-05
+adding val
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 6 : 31.5
+Chosen range: 20%: 31.0...33.9
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Top MAX amplitude frequencies:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+N=10 freq=33.8449485417186 amp=4.350984542701046e-07 dFr=2.344948541718601
+Finally chosen:
+N=9 freq=31.024536163242054 amp=1.2135150705085983e-06 dFr=0.475463836757946
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N6 = 31.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+122)  freq=31.024536163242054 ampl=1.2135150705085983e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054]
+Ns: [5, 24, 39, 57, 73, 122]
+amps: [5, 24, 39, 57, 73, 122]
+Finding fitting frequences for frequency N7 = 43.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Top MAX amplitude frequencies:
+N=13 freq=42.30618567714826 amp=1.5557708728177284e-06 dFr=1.1938143228517433
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 7 : 43.5
+Chosen range: 20%: 41.1...44.2
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Top MAX amplitude frequencies:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+Finally chosen:
+N=13 freq=44.100993554360606 amp=1.7280035931243993e-05 dFr=0.6009935543606062
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N7 = 43.5 chosen frequency (2nd sensor) (max amplitude among nearest):
+173)  freq=44.100993554360606 ampl=1.7280035931243993e-05
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606]
+Ns: [5, 24, 39, 57, 73, 122, 173]
+amps: [5, 24, 39, 57, 73, 122, 173]
+Finding fitting frequences for frequency N8 = 47
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+no frequencies in this range found, making range wider, now it is: 45.25...53.25
+Top NEAREST (2) frequencies:
+returning order by frequencies accending
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Top MAX amplitude frequencies:
+N=15 freq=46.152202556889 amp=6.145615378654239e-06 dFr=0.8477974431109985
+N=16 freq=51.53662618852606 amp=1.4250407741721148e-06 dFr=4.536626188526057
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 8 : 47
+Chosen range: 20%: 46.3...49.5
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Top MAX amplitude frequencies:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+Finally chosen:
+N=14 freq=46.408603682205054 amp=1.0188630259461086e-06 dFr=0.5913963177949455
+ChooseFreqsBySetMemberN finishes working
+
+for frequency N8 = 47 chosen frequency (2nd sensor) (max amplitude among nearest):
+182)  freq=46.408603682205054 ampl=1.0188630259461086e-06
+adding val
+now frequences chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+Finding fitting frequences for frequency N9 = 59.5
+
+For sensor 1:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Top MAX amplitude frequencies:
+N=19 freq=61.792671201168055 amp=3.675038905674375e-06 dFr=2.292671201168055
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 1 fit this value
+now frequences for sensor 1 chosen:
+[10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+Ns: [43, 24, 7, 122]
+amps: [43, 24, 7, 122]
+
+For sensor 2:
+
+ChooseFreqsBySetMemberN starts working
+Frequencies standard, nearest to which real frequencies are being chosen:
+[3, 9.5, 10.5, 19, 29, 31.5, 43.5, 47, 59.5]
+Choosing frequency, nearest to value N 9 : 59.5
+Chosen range: 20%: 57.0...62.0
+Top NEAREST (1) frequencies:
+returning order by frequencies accending
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Top MAX amplitude frequencies:
+N=18 freq=59.997863323955706 amp=2.9508276532223906e-07 dFr=0.49786332395570554
+Chosen :nothing, no approximate frequences with big enough value of amplitude
+ChooseFreqsBySetMemberN finishes working
+
+no freqs of sensor 2 fit this value
+now frequences for sensor 2 chosen:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+Ns: [5, 24, 39, 57, 73, 122, 173, 182]
+amps: [5, 24, 39, 57, 73, 122, 173, 182]
+
+Finaly - chosen frequences:
+For 1st sensor: 4
+Ns:  [43, 24, 7, 122]
+freqs:  [10.7688472632741, 5.897225882269151, 1.5384067518963, 31.024536163242054]
+ampls:  [0.00012699724369769666, 3.2844612632289092e-06, 6.537701274465192e-06, 2.4011562581041185e-05]
+Sorted data of 1st sensor renewed by freq ascendence
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+Again:
+1)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+2)  N: 24 freq=5.897225882269151 ampl=3.2844612632289092e-06
+3)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+4)  N: 122 freq=31.024536163242054 ampl=2.4011562581041185e-05
+For 2nd sensor: 8
+Ns:  [5, 24, 39, 57, 73, 122, 173, 182]
+freqs:  [1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+ampls:  [1.9508393687789745e-05, 8.174706459816885e-07, 5.458350451625018e-06, 5.665807400453457e-07, 1.4699430340867882e-06, 1.2135150705085983e-06, 1.7280035931243993e-05, 1.0188630259461086e-06]
+Sorted data of 2nd sensor renewed by freq ascendence
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Again:
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+3)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+4)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+5)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+6)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+7)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+8)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+Frequences.csv written successfully
+Reading Frequences.csv
+
+United freqs list (For both sensors. Sorted by Freqs accendance):
+
+valIsAtPos starts working
+given:
+[1.0256045012642, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+1.5384067518963
+isWithin
+Answer: isLess=0; isGreater=0; isWithin=1; lessNN=1; equalNN=0 valIsAtPos finishes working
+1/4: fr=1.5384067518963:  isLess=0; isGreater=0; isWithin=1; lessNN=1; equalNN=0
+now: 
+Ns:  [5, 7, 24, 39, 57, 73, 122, 173, 182]
+freqs:  [1.0256045012642, 1.5384067518963, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+ampls:  [1.9508393687789745e-05, 6.537701274465192e-06, 8.174706459816885e-07, 5.458350451625018e-06, 5.665807400453457e-07, 1.4699430340867882e-06, 1.2135150705085983e-06, 1.7280035931243993e-05, 1.0188630259461086e-06]
+valIsAtPos starts working
+given:
+[1.0256045012642, 1.5384067518963, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+5.897225882269151
+isWithin
+Answer: isLess=0; isGreater=0; isWithin=1; lessNN=0; equalNN=3 valIsAtPos finishes working
+2/4: fr=5.897225882269151:  isLess=0; isGreater=0; isWithin=1; lessNN=0; equalNN=3
+same freq, not added
+valIsAtPos starts working
+given:
+[1.0256045012642, 1.5384067518963, 5.897225882269151, 9.743242762009901, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+10.7688472632741
+isWithin
+Answer: isLess=0; isGreater=0; isWithin=1; lessNN=4; equalNN=0 valIsAtPos finishes working
+3/4: fr=10.7688472632741:  isLess=0; isGreater=0; isWithin=1; lessNN=4; equalNN=0
+now: 
+Ns:  [5, 7, 24, 39, 43, 57, 73, 122, 173, 182]
+freqs:  [1.0256045012642, 1.5384067518963, 5.897225882269151, 9.743242762009901, 10.7688472632741, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+ampls:  [1.9508393687789745e-05, 6.537701274465192e-06, 8.174706459816885e-07, 5.458350451625018e-06, 0.00012699724369769666, 5.665807400453457e-07, 1.4699430340867882e-06, 1.2135150705085983e-06, 1.7280035931243993e-05, 1.0188630259461086e-06]
+valIsAtPos starts working
+given:
+[1.0256045012642, 1.5384067518963, 5.897225882269151, 9.743242762009901, 10.7688472632741, 14.358463017698801, 18.4608810227556, 31.024536163242054, 44.100993554360606, 46.408603682205054]
+31.024536163242054
+isWithin
+Answer: isLess=0; isGreater=0; isWithin=1; lessNN=0; equalNN=8 valIsAtPos finishes working
+4/4: fr=31.024536163242054:  isLess=0; isGreater=0; isWithin=1; lessNN=0; equalNN=8
+same freq, not added
+_Finally: 
+1)  N: 5 freq=1.0256045012642 ampl=1.9508393687789745e-05
+2)  N: 7 freq=1.5384067518963 ampl=6.537701274465192e-06
+3)  N: 24 freq=5.897225882269151 ampl=8.174706459816885e-07
+4)  N: 39 freq=9.743242762009901 ampl=5.458350451625018e-06
+5)  N: 43 freq=10.7688472632741 ampl=0.00012699724369769666
+6)  N: 57 freq=14.358463017698801 ampl=5.665807400453457e-07
+7)  N: 73 freq=18.4608810227556 ampl=1.4699430340867882e-06
+8)  N: 122 freq=31.024536163242054 ampl=1.2135150705085983e-06
+9)  N: 173 freq=44.100993554360606 ampl=1.7280035931243993e-05
+10)  N: 182 freq=46.408603682205054 ampl=1.0188630259461086e-06
+impact 4=8 :  [85.3, [90.7, 95.5]]
+Анализ затухания без модального анализа
+Impact N 3  tStart=85.3 tFin1=90.7 tFin2=95.5 ImpHB=90.7
+read vals: ts:38881 vals, +si1: 38881 vals, +en1: 38881 +si2: 38881 vals, +en2: 38881 
+read vals: ts:38881 vals, +si1: 38881 vals, +en1: 38881 +si2: 38881 vals, +en2: 38881 

@@ -1,0 +1,50 @@
+@echo off
+setlocal enabledelayedexpansion
+
+:: Папка с виртуальными окружениями
+set ENV_DIR=C:\venvs
+
+:: Список окружений
+:: Просто перечислите имена папок виртуальных окружений
+set ENVS=ds_office_env ml_env test_env
+
+:MENU
+cls
+echo ================================
+echo   Select Python environment
+echo ================================
+set /a i=1
+for %%E in (%ENVS%) do (
+    echo !i!. %%E
+    set "CHOICE_!i!=%%E"
+    set /a i+=1
+)
+echo 0. Exit
+echo ================================
+set /p selection=Enter number:
+
+if "%selection%"=="0" exit /b
+
+:: Проверяем правильность выбора
+set "ENV_NAME=!CHOICE_%selection%!"
+if "!ENV_NAME!"=="" (
+    echo Invalid choice!
+    pause
+    goto MENU
+)
+
+:: Активируем выбранное окружение и запускаем IDLE
+call "%ENV_DIR%\!ENV_NAME!\Scripts\activate.bat"
+if errorlevel 1 (
+    echo Failed to activate environment!
+    pause
+    goto MENU
+)
+
+echo Starting Python IDLE in environment !ENV_NAME! ...
+python -m idlelib.idle
+
+:: После закрытия IDLE деактивируем окружение
+deactivate
+
+goto MENU

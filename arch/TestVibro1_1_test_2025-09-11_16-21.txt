@@ -1,0 +1,52 @@
+=========== RESTART: D:/MyFilesCur/MyPrgs/Python/Wav/TestVibro1_1.py ===========
+PySide2/__init__.py: Unable to import shiboken2 from D:/MyFilesCur/MyPrgs/Python/Wav, C:\Program Files\Python38\Lib\idlelib, C:\Program Files\Python38\python38.zip, C:\Program Files\Python38\DLLs, C:\Program Files\Python38\lib, C:\Program Files\Python38, C:\Program Files\Python38\lib\site-packages
+Сигнал сохранён в D:\MyFilesCur\MyPrgs\Python\Wav\assets\051_1_M_signal_whole.csv
+Bounds
+1.6819791666666666...12.466979166666667
+12.466979166666667...21.13104166666667
+21.13104166666667...30.795416666666668
+30.795416666666668...45.6034375
+45.6034375...53.532291666666666
+53.532291666666666...92.276875
+92.276875...107.05416666666666
+107.05416666666666...114.16166666666666
+114.16166666666666...129.6
+Переменные границы сохранёны в D:\MyFilesCur\MyPrgs\Python\Wav\assets\051_1_M_segments_bounds.csv
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning (from warnings module):
+  File "D:/MyFilesCur/MyPrgs/Python/Wav\MyPyVibroLib.py", line 18
+    fs, data=wavfile.read(fullFileName)
+WavFileWarning: Reached EOF prematurely; finished at 2488364 bytes, expected 2488366 bytes from header.
+Сигнал сохранён в D:\MyFilesCur\MyPrgs\Python\Wav\assets\051-2_signal_whole.csv
+Bounds
+12.458333333333334...53.52645833333333
+53.52645833333333...77.81229166666667
+77.81229166666667...129.6
+Переменные границы сохранёны в D:\MyFilesCur\MyPrgs\Python\Wav\assets\051-2_segments_bounds.csv
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning (from warnings module):
+  File "D:/MyFilesCur/MyPrgs/Python/Wav\MyPyVibroLib.py", line 18
+    fs, data=wavfile.read(fullFileName)
+WavFileWarning: Reached EOF prematurely; finished at 2609324 bytes, expected 2609326 bytes from header.
+Сигнал сохранён в D:\MyFilesCur\MyPrgs\Python\Wav\assets\052-1_signal_whole.csv
+Bounds
+132.31770833333334...135.9
+Переменные границы сохранёны в D:\MyFilesCur\MyPrgs\Python\Wav\assets\052-1_segments_bounds.csv
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+
+Warning (from warnings module):
+  File "D:/MyFilesCur/MyPrgs/Python/Wav\MyPyVibroLib.py", line 18
+    fs, data=wavfile.read(fullFileName)
+WavFileWarning: Reached EOF prematurely; finished at 2609324 bytes, expected 2609326 bytes from header.
+Сигнал сохранён в D:\MyFilesCur\MyPrgs\Python\Wav\assets\052-2_signal_whole.csv
+Bounds
+133.65708333333333...135.9
+Переменные границы сохранёны в D:\MyFilesCur\MyPrgs\Python\Wav\assets\052-2_segments_bounds.csv
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+FileChar.csv создан

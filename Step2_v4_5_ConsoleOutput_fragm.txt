@@ -1,0 +1,35 @@
+spectrumWhole: 365040 values
+spectrumWhole(limited): 6606 values
+impactN1 freqs: 17640
+impactN2 freqs: 17640
+impactN3 freqs: 19440
+impactN4 freqs: 19440
+impactN5 freqs: 19440
+impactN6 freqs: 19440
+impactN7 freqs: 16560
+impactN8 freqs: 16560
+impactN9 freqs: 18720
+impactN10 freqs: 18720
+impactN11 freqs: 18000
+impactN12 freqs: 18000
+impactN13 freqs: 29160
+impactN14 freqs: 29160
+impactN15 freqs: 20880
+impactN16 freqs: 20880
+impactN17 freqs: 22680
+impactN18 freqs: 22680
+spectrumElaborated: 499 values
+
+Sensor (channel) N 1 - 136 clustars of freqs
+clusters L: min L=1 max L=9 last N of max L=69
+clusters A: min A=9.471539451832167e-07 max A=3.877051190536995e-05 last N of max A=91
+clusterN 1 values: 2 partL: (0.125); mean freq val: 0.15431754779400939 repr val of Ampl: 3.783807480809444e-05 (partA: 0.9753475855248758)
+clusterN 2 values: 1 partL: (0.0); mean freq val: 0.7407280396426672 repr val of Ampl: 6.2892318294688895e-06 (partA: 0.14123753607251902)
+
+
+
+Sensor (channel) N 2 - 97 clustars of freqs
+clusters L: min L=1 max L=9 last N of max L=3
+clusters A: min A=6.081580836334535e-06 max A=0.0009560795807122066 last N of max A=55
+clusterN 1 values: 1 partL: (0.0); mean freq val: 1.8518200991066682 repr val of Ampl: 1.1289697012689189e-05 (partA: 0.005482239096329837)
+clusterN 2 values: 6 partL: (0.625); mean freq val: 2.22108829934114 repr val of Ampl: 4.37070262956793e-05 (partA: 0.03960581544830721)

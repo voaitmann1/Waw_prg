@@ -1,0 +1,1 @@
+impN,decr1,decr2,decrS, F or ch 1,F or ch 2

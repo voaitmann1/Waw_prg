@@ -1,0 +1,3 @@
+My prog:
+- ne shows ImpactN - ut ce gedo, s'nod refy l'arg <<impacts et alg o'lir S. Ma S'nod if arbf n'all impacts
+- ha errs am impact-bounds-ts

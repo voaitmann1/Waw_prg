@@ -1,0 +1,14 @@
+Name:,Value
+Folder:,H:\MyFiles\W\W37Prg\Wav
+Files:,1
+fileNameEnding_Signal,_signal_whole.csv
+fileNameEnding_ImpactBounds,_ImpactsRanges.csv
+fileNameEnding_Spectrum,_spectrum.csv
+SubFolder_IniData,data
+SubFolder_Results,Results
+SubFolder_IntermediateData,data
+fileName_Results,results.csv
+File:,0038-03.12.25-ля0042511-1
+Channels:,2
+tmax:,92.6998611111111
+fs:,7200
